@@ -34,25 +34,28 @@ void ofApp::draw(){
 
 	cam.begin();
 
+	ofRotateY(-90);
+
 	ofPushMatrix();
-	ofTranslate(-100, 100, 0);
+	ofTranslate(0, 100, 100);
 	src_ref.draw();
 	ofPopMatrix();
 
 	ofPushMatrix();
-	ofTranslate(-100, -100, 0);
+	ofTranslate(0, -100, 100);
 	src_def.draw();
 	ofPopMatrix();
 
 	ofPushMatrix();
-	ofTranslate(100, 100, 0);
+	ofTranslate(0, 100, -100);
 	trg_ref.draw();
 	ofPopMatrix();
 
 	ofPushMatrix();
-	ofTranslate(100, -100, 0);
+	ofTranslate(0, -100, -100);
 	trg_def.draw();
 	ofPopMatrix();
+
 	cam.end();
 }
 
