@@ -3,7 +3,7 @@ This addon applies the deformation exhibited by a source triangle mesh onto a di
 > Deformation Transfer for Triangle Meshes, Robert Sumner et al., 2005.
 > http://people.csail.mit.edu/sumner/research/deftransfer/
 
-![alt text](https://github.com/iwanao731/ofxFacialBlendShape/blob/master/image.bmp "ofxDeformationTransfer")
+![alt text](https://github.com/iwanao731/ofxDeformationTransfer/blob/master/image.bmp "ofxDeformationTransfer")
 
 ## Environment
 I test this environment below.
