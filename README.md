@@ -6,9 +6,14 @@ This addon applies the deformation exhibited by a source triangle mesh onto a di
 ## Environment
 I test this environment below.
 
-- openframeworks v0.9.1
-- Visual Studio 2015
-- Windows 7
+- Windows
+	- openframeworks v0.9.1
+	- Visual Studio 2015
+	- Windows 7
+
+- MAC OSX
+	- openframeworks v0.9.2
+	- Xcode
 
 ## Library
 - Eigen 3.0.0~
