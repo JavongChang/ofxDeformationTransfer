@@ -94,7 +94,6 @@ gradlew.bat
 # original
 #########################
 *.obj
-*.ply
 
 #########################
 # operating system
