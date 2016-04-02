@@ -3,20 +3,17 @@ This addon applies the deformation exhibited by a source triangle mesh onto a di
 > Deformation Transfer for Triangle Meshes, Robert Sumner et al., 2005.
 > http://people.csail.mit.edu/sumner/research/deftransfer/
 
+![alt text](https://github.com/iwanao731/ofxFacialBlendShape/blob/master/image.bmp "ofxDeformationTransfer")
+
 ## Environment
 I test this environment below.
 
-- Windows
-	- openframeworks v0.9.1
-	- Visual Studio 2015
-	- Windows 7
-
-- MAC OSX
-	- openframeworks v0.9.2
-	- Xcode
+- openframeworks v0.9.1
+- Visual Studio 2015
+- Windows 7
 
 ## Library
 - Eigen 3.0.0~
-	- http://eigen.tuxfamily.org/index.php?title=Main_Page 
+-- http://eigen.tuxfamily.org/index.php?title=Main_Page 
 
 
